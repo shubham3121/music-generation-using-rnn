@@ -20,3 +20,7 @@ We use the following libraries:
 ### Data
 
 You can download the MIDI files from the following site: 'http://www.midiworld.com/'
+
+### Blog 
+
+Here is the [Blog](https://www.hackerearth.com/blog/machine-learning/jazz-music-using-deep-learning) related to this code. 
