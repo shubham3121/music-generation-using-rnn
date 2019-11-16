@@ -16,6 +16,7 @@ We use the following libraries:
 - pandas 
 - numpy
 - pygame
+- timidity
 
 ### Data
 
